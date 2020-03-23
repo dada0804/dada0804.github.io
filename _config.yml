@@ -1,11 +1,11 @@
 theme: jekyll-theme-midnight
 title: 达达的异想世界
 email: mayan1015@gmail.com
-description: "星辰大海 在踏出的每一步里"  
+description: "Just do it"  
 url: "https://dada0804.github.io"  
 
 #sidebar settings
 sidebar: true                           # 是否开启侧边栏.
-sidebar-about-description: "说好的未来要一起去"
+sidebar-about-description: "lalala"
 
 disqus_username: dada0804
